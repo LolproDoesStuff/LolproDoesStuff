@@ -13,6 +13,5 @@ Hi, I'm Lolpro.<br>I'm a teenager student from Italy and I'm currently studying 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lolprodoesstuff&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lolprodoesstuff&icon=0&color=6)](https://visitcount.itsvg.in)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lolprodoesstuff&label=Profile%20views&color=0e75b6&style=flat" alt="lolprodoesstuff" /> </p>
 <!-- credits to GPRM for helping me creating the readme (yes I'm lazy) ( https://gprm.itsvg.in ) -->
